@@ -1,5 +1,5 @@
 # Excel Data Analytics Project: Salary Dashboard
-![Excel Data Analytics Project: Final Dashboard](Images\1_Salary_Dashboard_Final_Dashboard.gif)
+![Excel Data Analytics Project: Final Dashboard](Images/1_Salary_Dashboard_Final_Dashboard.gif)
 ## Introduction
 This Data Jobs Salary Dashboard was created to help job seekers research salaries for their desired jobs and ensure they are being adequately compensated.
 
@@ -38,7 +38,7 @@ The dataset used for this project contains real-world data science job informati
 - 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
-![Salary Dashboard Country Map](Images\1_Salary_Dashboard_Country_Map.gif)
+![Salary Dashboard Country Map](Images/1_Salary_Dashboard_Country_Map.gif)
 - 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.
 - 📊 Data Representation: Plotted median salary for each country with available data.
@@ -69,9 +69,9 @@ IF(
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 #### 🍽️ Background Table
-![](Images\1_Salary_Dashboard_Screenshot1.png)
+![](Images/1_Salary_Dashboard_Screenshot1.png)
 #### 📉 Dashboard Implementation
-![Salary Dashboard Job Title](Images\1_Salary_Dashboard_job_title.png)
+![Salary Dashboard Job Title](Images/1_Salary_Dashboard_job_title.png)
 #### ⏰ Count of Job Schedule Type
 
 ```
@@ -82,9 +82,9 @@ IF(
 - 🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
 
 #### 🍽️ Background Table
-![](Images\1_Salary_Dashboard_Screenshot2.png)
+![](Images/1_Salary_Dashboard_Screenshot2.png)
 #### 📉 Dashboard Implementation
-![Salary Dashboard Schedule Type](Images\1_Salary_Dashboard_type.png)
+![Salary Dashboard Schedule Type](Images/1_Salary_Dashboard_type.png)
 ### ❎ Data Validation
 
  Filtered List
