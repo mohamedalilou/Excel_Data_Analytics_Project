@@ -92,6 +92,7 @@ IF(
 - 🎯 User input is restricted to predefined, validated schedule types
 - 🚫 Incorrect or inconsistent entries are prevented
 - 👥 Overall usability of the dashboard is enhanced
+
 ![Salary Dashboard Data Validation](Images/1_Salary_Dashboard_Data_Validation.gif)
 ## Conclusion
 
